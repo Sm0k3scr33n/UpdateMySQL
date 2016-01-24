@@ -8,7 +8,7 @@ import java.sql.*;
 
 /**
  *
- * @author root
+ * @author Michael Gabbard
  */
 public class UpdateMySQL {
 
