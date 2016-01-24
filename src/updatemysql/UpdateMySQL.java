@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ updating a mysql database with a try/catch statement
+make sure to import the right jdbc driver for mysql
  */
 package updatemysql;
 
